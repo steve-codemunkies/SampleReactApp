@@ -6,6 +6,8 @@ env:
   OUTPUT_PATH: ${{ github.workspace }}/build
 
 on:
+  repository_dispatch:
+    type: manual-build
   push:
     branches: [ master ]
   pull_request:

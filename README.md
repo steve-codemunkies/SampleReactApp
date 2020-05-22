@@ -1,5 +1,7 @@
 Tic-tac-toe based on [this tutorial](https://reactjs.org/tutorial/tutorial.html).
 
+[Setting up a repository to manually trigger a build](https://goobar.io/2019/12/07/manually-trigger-a-github-actions-workflow/)
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
